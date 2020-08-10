@@ -1,0 +1,82 @@
+{
+  "admin": {
+    "username": "pr",
+    "password": "p123"
+  },
+  "login": [
+    {
+      "username": "anil",
+      "password": "anil123",
+      "counter": 1,
+      "id": 1
+    },
+    {
+      "username": "pranshu",
+      "password": "p123",
+      "counter": 1,
+      "id": 2
+    },
+    {
+      "username": "Deepak",
+      "password": "123dep",
+      "counter": 1,
+      "id": 3
+    },
+    {
+      "username": "pr",
+      "password": "p124",
+      "counter": 1,
+      "id": 4
+    },
+    {
+      "username": "",
+      "password": "",
+      "counter": 0,
+      "id": 5
+    },
+    {
+      "username": "pppp",
+      "password": "mn ",
+      "counter": 1,
+      "id": 6
+    },
+    {
+      "username": "student",
+      "password": "123",
+      "counter": 1,
+      "id": 7
+    },
+    {
+      "username": "kljnm",
+      "password": " ,mn",
+      "counter": 1,
+      "id": 8
+    },
+    {
+      "username": "knm",
+      "password": "lk",
+      "counter": 1,
+      "id": 9
+    }
+  ],
+  "minsiter": [
+    {
+      "id": 1,
+      "partyName": "bjp",
+      "candidate": "modi",
+      "Vote": 41
+    },
+    {
+      "id": 2,
+      "partyName": "congress",
+      "candidate": "rahul",
+      "Vote": 52
+    },
+    {
+      "id": 3,
+      "partyName": "app",
+      "candidate": "Arvind",
+      "Vote": 31
+    }
+  ]
+}

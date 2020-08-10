@@ -1,0 +1,20 @@
+nsiter": [
+    {
+      "id":1,
+      "partyName": "bjp",
+      "candidate": "modi",
+      "Vote": 36
+    },
+    {
+      "id":2,
+
+      "partyName": "congress",
+      "candidate": "rahul",
+      "Vote": 20
+    },
+    {
+      "id"  :3,
+      "partyName": "app",
+      "candidate": "kejrewal",
+      "Vote": 10
+    }

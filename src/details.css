@@ -1,0 +1,10 @@
+.site-card-border-less-wrapper {
+    padding: 30px;
+    background: #ececec;
+  }
+    [data-theme="dark"] .site-card-border-less-wrapper {
+      background: #303030;
+    }
+    .site-page-header {
+        border: 1px solid rgb(235, 237, 240);
+      }
